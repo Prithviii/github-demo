@@ -5,3 +5,8 @@ Important git commands:
 4. moving contents from staging area to local repository: git commit -m "Process explanation"
 5. moving contents from local repository to github repository: git push origin branch_name
 6. checking status of local area wrt remote area: git status
+28. Recursive Add
+1. Adding directories recursively to local wp: command: mkdir -p dir1/dir2/dir3
+
+   
+
